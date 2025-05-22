@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    height: 100vh;
+    color: #333;
+}
+
+.container {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+
+p {
+    font-size: 16px;
+    margin: 10px 0;
+    color: #333;
+}
+
+.steps {
+    text-align: left;
+    margin: 20px 0;
+    padding: 10px;
+    color: #333;
+}
+
+.steps ol {
+    list-style-position: inside;
+    margin: 0;
+    padding: 0;
+}
+
+.warning-box {
+    background-color: #ffd700; /* Yellow */
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 10px;
+    text-align: left;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #333;
+    display: flex;
+    align-items: center;
+}
+
+.warning-icon {
+    margin-right: 10px;
+}
+
+.warning-text {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+button {
+    background-color: #000; /* Black */
+    color: #fff; /* White text */
+    border: none;
+    padding: 15px 35px;
+    height: 55px;
+    width: 100%;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 50px; /* Rounded button */
+}
+
+button:hover {
+    background-color: #333; /* Darker black on hover */
+}
+
+.company-logo {
+    width: 150px; /* Adjust size as needed */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center the logo */
+    padding-top: 30px;
+}

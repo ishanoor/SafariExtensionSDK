@@ -1,0 +1,74 @@
+{
+    "en": {
+        "title": "Enable Wakoopa Safari Extension",
+        "description": "To have the Wakoopa Safari Extension working, please grant all the necessary permissions.",
+        "warning": "Please select <strong>Always allow</strong> and <strong>Always allow on every website</strong>.",
+        "button": "Grant Permissions",
+        "enabledTitle": "Wakoopa Safari Extension Enabled",
+        "enabledDescription": "The Wakoopa Safari browser extension is now enabled. You may continue using Safari seamlessly."
+    },
+    "es": {
+        "title": "Habilitar la extensión Safari de Wakoopa",
+        "description": "Para que la extensión Safari de Wakoopa funcione, conceda todos los permisos necesarios.",
+        "warning": "Seleccione <strong>Permitir siempre</strong> y <strong>Permitir siempre en todos los sitios web</strong>.",
+        "button": "Conceder permisos",
+        "enabledTitle": "Extensión Safari de Wakoopa habilitada",
+        "enabledDescription": "La extensión Safari de Wakoopa ahora está habilitada. Puede seguir utilizando Safari sin problemas."
+    },
+    "nl": {
+        "title": "Wakoopa Safari-extensie inschakelen",
+        "description": "Om de Wakoopa Safari-extensie te laten werken, verleent u alle benodigde machtigingen.",
+        "warning": "Selecteer <strong>Altijd toestaan</strong> en <strong>Altijd toestaan op elke website</strong>.",
+        "button": "Toestemming verlenen",
+        "enabledTitle": "Wakoopa Safari-extensie ingeschakeld",
+        "enabledDescription": "De Wakoopa Safari-extensie is nu ingeschakeld. U kunt Safari zonder problemen blijven gebruiken."
+    },
+    "fr": {
+        "title": "Activer l'extension Safari Wakoopa",
+        "description": "Pour que l'extension Safari Wakoopa fonctionne, veuillez accorder toutes les autorisations nécessaires.",
+        "warning": "Veuillez sélectionner <strong>Toujours autoriser</strong> et <strong>Toujours autoriser sur chaque site web</strong>.",
+        "button": "Accorder les autorisations",
+        "enabledTitle": "Extension Safari Wakoopa activée",
+        "enabledDescription": "L'extension Safari Wakoopa est maintenant activée. Vous pouvez continuer à utiliser Safari sans problème."
+    },
+    "de": {
+        "title": "Wakoopa Safari-Erweiterung aktivieren",
+        "description": "Damit die Wakoopa Safari-Erweiterung funktioniert, gewähren Sie bitte alle erforderlichen Berechtigungen.",
+        "warning": "Bitte wählen Sie <strong>Immer erlauben</strong> und <strong>Immer auf jeder Website erlauben</strong>.",
+        "button": "Berechtigungen erteilen",
+        "enabledTitle": "Wakoopa Safari-Erweiterung aktiviert",
+        "enabledDescription": "Die Wakoopa Safari-Browsererweiterung ist jetzt aktiviert. Sie können Safari problemlos weiter nutzen."
+    },
+    "it": {
+        "title": "Abilita l'estensione Safari di Wakoopa",
+        "description": "Per far funzionare l'estensione Safari di Wakoopa, concedi tutte le autorizzazioni necessarie.",
+        "warning": "Seleziona <strong>Consenti sempre</strong> e <strong>Consenti sempre su ogni sito web</strong>.",
+        "button": "Concedi autorizzazioni",
+        "enabledTitle": "Estensione Safari di Wakoopa abilitata",
+        "enabledDescription": "L'estensione Safari di Wakoopa è ora abilitata. Puoi continuare a utilizzare Safari senza problemi."
+    },
+    "pl": {
+        "title": "Włącz rozszerzenie Safari Wakoopa",
+        "description": "Aby rozszerzenie Safari Wakoopa działało, przyznaj wszystkie niezbędne uprawnienia.",
+        "warning": "Wybierz <strong>Zawsze zezwalaj</strong> i <strong>Zawsze zezwalaj na każdej stronie</strong>.",
+        "button": "Przyznaj uprawnienia",
+        "enabledTitle": "Rozszerzenie Wakoopa Safari włączone",
+        "enabledDescription": "Rozszerzenie przeglądarki Wakoopa Safari zostało włączone. Możesz kontynuować korzystanie z Safari bez przeszkód."
+    },
+    "pt": {
+        "title": "Ativar a extensão Safari da Wakoopa",
+        "description": "Para que a extensão Safari da Wakoopa funcione, conceda todas as permissões necessárias.",
+        "warning": "Selecione <strong>Sempre permitir</strong> e <strong>Sempre permitir em todos os sites</strong>.",
+        "button": "Conceder permissões",
+        "enabledTitle": "Extensão Safari Wakoopa ativada",
+        "enabledDescription": "A extensão Safari Wakoopa agora está ativada. Você pode continuar a usar o Safari sem problemas."
+    },
+    "tr": {
+        "title": "Wakoopa Safari Eklentisini Etkinleştir",
+        "description": "Wakoopa Safari Eklentisinin çalışması için lütfen gerekli tüm izinleri verin.",
+        "warning": "<strong>Her zaman izin ver</strong> ve <strong>Her web sitesinde her zaman izin ver</strong> öğesini seçin.",
+        "button": "İzin Ver",
+        "enabledTitle": "Wakoopa Safari Uzantısı Etkinleştirildi",
+        "enabledDescription": "Wakoopa Safari tarayıcı uzantısı artık etkin. Safari'yi sorunsuz bir şekilde kullanmaya devam edebilirsiniz."
+    }
+}
