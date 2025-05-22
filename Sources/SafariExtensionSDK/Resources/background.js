@@ -1,5 +1,7 @@
 importScripts("shared.js");
 
+// This is a test!!
+
 // Trigger for First Install
 chrome.runtime.onInstalled.addListener(() => {
     console.log("Extension installed at:", new Date());
